@@ -8,6 +8,8 @@ This is a React 18 application that allows the user to upload a .pdf file and th
 - [Running the App]
 - [Building for Production]
 - [Contributing]
+
+
 ##create a new folder for the app and open it in your code editor of choice
 
 ## Installation
