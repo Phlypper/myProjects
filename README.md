@@ -13,7 +13,7 @@ This is a React 18 application that allows the user to upload a .pdf file and th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Phlypper/myProjects.git
+   git clone https://github.com/Phlypper/pdf_scraper.git
    cd pdf-scraper
    ```
 
