@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pdf_scraper/static/css/main.e6c13ad2.css",
+    "main.js": "/pdf_scraper/static/js/main.516197e3.js",
+    "static/js/453.18ab7e82.chunk.js": "/pdf_scraper/static/js/453.18ab7e82.chunk.js",
+    "index.html": "/pdf_scraper/index.html",
+    "main.e6c13ad2.css.map": "/pdf_scraper/static/css/main.e6c13ad2.css.map",
+    "main.516197e3.js.map": "/pdf_scraper/static/js/main.516197e3.js.map",
+    "453.18ab7e82.chunk.js.map": "/pdf_scraper/static/js/453.18ab7e82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.516197e3.js"
+  ]
+}
